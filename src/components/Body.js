@@ -75,7 +75,7 @@ const Body = () => {
         </div>
             <h1 style={{textAlign: "center",
                         color: "white"
-                        }}>Sorry, we couldn't find more items according to your Search 😔</h1>
+                        }}>Sorry, no more books here 😔</h1>
     </div>
   )
 }
