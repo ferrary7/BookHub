@@ -33,7 +33,7 @@ const SignUp = () => {
       sessionStorage.setItem('name',values.name)
 
       setSubmitting(false);
-      window.open('http://localhost:3000/', '_self')
+      window.open('https://idyllic-froyo-19e7b8.netlify.app/', '_self')
     }, 1000);
   };
 
